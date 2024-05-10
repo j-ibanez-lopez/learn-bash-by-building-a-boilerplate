@@ -65,3 +65,4 @@ mkdir website
 cd ./website/
 cd ..
 ls --color=auto ./website/
+cd website/
