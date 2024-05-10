@@ -67,3 +67,4 @@ cd ..
 ls --color=auto ./website/
 cd website/
 ls --color=auto
+echo hello website
