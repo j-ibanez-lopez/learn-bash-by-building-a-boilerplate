@@ -50,3 +50,4 @@ cleat
 clear
 ls --color=auto
 cd src
+pwd
