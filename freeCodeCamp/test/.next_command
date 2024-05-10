@@ -60,3 +60,5 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mñdir website
+mkdir website
