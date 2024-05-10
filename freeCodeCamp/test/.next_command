@@ -62,3 +62,6 @@ ls --color=auto
 clear
 mñdir website
 mkdir website
+cd ./website/
+cd ..
+ls --color=auto ./website/
