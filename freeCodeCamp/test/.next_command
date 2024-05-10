@@ -48,3 +48,4 @@ more LICENSE-MIT
 cls
 cleat
 clear
+ls --color=auto
